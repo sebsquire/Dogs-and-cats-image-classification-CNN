@@ -10,6 +10,9 @@ Modules converted from Sentdex' tutorial (https://pythonprogramming.net/convolut
  - Added custom image input function
  - Added commands while running to eliminate repeated image processing/model training
 
+Model attains ~90& accuracy on validation data and a log loss of ~0.32 on Kaggle's test data.
+Results analysed with tensorboard.
+
 Data available at: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
 
 Modules:
