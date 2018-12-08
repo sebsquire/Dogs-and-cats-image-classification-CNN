@@ -1,6 +1,6 @@
 # Dogs-and-cats-image-classification-CNN
 Binary Image Classification using CNN w/ residual layers (Dogs &amp; Cats)
-(Tensorflow, TFLearn, OpenCV)
+(Tensorflow-GPU, TFLearn, OpenCV)
 
 Modules converted from Sentdex' tutorial (https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/). Now includes:
  - Improved accuracy through CNN architecture and hyperparameter modification featuring inclusion of residual blocks
